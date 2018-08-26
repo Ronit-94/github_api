@@ -1,5 +1,5 @@
-To install dependencies run the command:
-pip install -r requirements.txt
+To install dependencies run the command:\n
+*pip install -r requirements.txt*
 
 To get a list of repositories for a particular account run the following command:
-pyhton listrepo.py <username> <password>
+python listrepo.py <username> <password>
